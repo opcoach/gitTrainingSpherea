@@ -1,4 +1,8 @@
 the test file 1
+<<<<<<< HEAD
 modif 2 bis
 modif before branching
 another change
+=======
+modif branch070
+>>>>>>> branch070
