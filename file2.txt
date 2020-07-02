@@ -1,3 +1,12 @@
 The test file 2
+<<<<<<< HEAD
 modif before branching
 modif befor merge
+=======
+
+
+
+
+
+modif b080
+>>>>>>> 8d2c8ab... commit b080
